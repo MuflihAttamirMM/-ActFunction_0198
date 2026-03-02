@@ -17,5 +17,5 @@ void output() {
     cout << "Hasil luas Lingkaran = " << luas_lingkaran(r) << endl;
 }
 int main() {
-
+    input();
 }
