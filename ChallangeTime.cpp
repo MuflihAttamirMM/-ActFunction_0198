@@ -8,3 +8,7 @@ void input (){
     cout << "Masukkan Ruas = ";
     cin >> r;
 }
+
+float luas_lingkaran(int c) {
+    
+}}  
